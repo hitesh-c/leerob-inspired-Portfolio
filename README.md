@@ -1,7 +1,3 @@
-![cover](https://repository-images.githubusercontent.com/386759878/da75b7f3-2f50-4797-a36a-0d6dd8f7c6b3)
-
-# Portfolio
-
 My own personal portfolio website
 
 Inspired by [leerob](https://github.com/leerob/leerob.io)
